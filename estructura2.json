@@ -1,0 +1,47 @@
+{
+    datos: [{
+      "curp_contrayente1": "SAIP791204HTSNBD07",
+      "nombre": "José Pedro",
+      "paterno": "Sánchez",
+      "materno": "Ibarra",
+      "fecha_nacimiento": "04/12/1979",
+      "padres": [
+        {
+          "curp": "",
+          "nombre": "José Pedro",
+          "paterno": "Sánchez",
+          "materno": "Ibarra",
+          "fecha_nacimiento": "28/08/1956"
+        },
+        {
+          "curp": "",
+          "nombre": "Rufina",
+          "paterno": "Ibarra",
+          "materno": "Flores",
+          "fecha_nacimiento": "19/07/1961"
+        }
+      ],
+    },
+{
+  "curp_contrayente2": "FUHE811214MNTNRL09",
+  "nombre": "Elsa Elizabeth",
+  "paterno": "Fuentes",
+  "materno": "Hurtado",
+  "fecha_nacimiento": "14/12/1981",
+  "padres": [
+    {
+      "curp": "",
+      "nombre": "Alfonso",
+      "paterno": "Fuentes",
+      "materno": "Aguirre",
+      "fecha_nacimiento": "10/10/1954"
+    },
+    {
+      "curp": "",
+      "nombre": "Elsa Isabel",
+      "paterno": "Hurtado",
+      "materno": "Barrera",
+      "fecha_nacimiento": "27/02/1954"
+    }
+  ]
+},
